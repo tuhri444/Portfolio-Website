@@ -1,7 +1,7 @@
 function copyDiscordToClipboard() {
     /* global navigator, alert */
-    navigator.clipboard.writeText("Theodorus#3166");
-    alert("Saved the discord username Theodorus#3166 to the clipboard.");
+    navigator.clipboard.writeText("theodorus");
+    alert("Saved the discord username theodorus to the clipboard.");
 }
 
 function copyEmailToClipboard() {
